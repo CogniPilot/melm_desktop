@@ -1,0 +1,10 @@
+<library path="melm_rviz_plugins">
+
+  <class name="melm_rviz_plugins/MELMPanel"
+         type="melm_rviz_plugins::MELMPanel"
+         base_class_type="rviz_common::Panel">
+    <description>The melm rviz panel.</description>
+  </class>
+
+</library>
+
